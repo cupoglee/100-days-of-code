@@ -1,0 +1,18 @@
+class Solution:
+    def searchInsert(self, nums: List[int], target: int) -> int:
+        high = len(nums)-1
+        low = 0
+        mid = 0
+        while low<=high:
+            mid = (low+high)//2
+
+            if nums[mid]==target:
+                return mid
+
+            elif target<nums[mid]: #Lies in left half
+                high = mid-1
+
+            elif target>nums[mid]:
+                low = mid+1
+
+        return low
