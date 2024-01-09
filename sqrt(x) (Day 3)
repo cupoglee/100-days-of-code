@@ -1,0 +1,11 @@
+class Solution:
+    def mySqrt(self, x: int) -> int:
+        i=0
+        j=1
+        square_list = list()
+        while i<=x:
+            i=j*j
+            square_list.append(i)
+            j+=1
+        res = len(square_list)-1
+        return res
