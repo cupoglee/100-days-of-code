@@ -1,0 +1,15 @@
+class Solution:
+    def plusOne(self, digits: List[int]) -> List[int]:
+        l=len(digits)
+        count=""
+        sum_list = list()
+        for i in range(l):
+            count = count+str(digits[i])
+
+        count = int(count) + 1
+
+        count = str(count)
+        for j in range(len(count)):
+            sum_list.append(int(count[j]))
+
+        return sum_list
