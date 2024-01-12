@@ -9,3 +9,5 @@
 ###### [sqrt(x): Without using std operations](https://github.com/cupoglee/100-days-of-code/blob/main/sqrt(x)%20(Day%203))
 #### Day 4
 ###### [Plus One](https://github.com/cupoglee/100-days-of-code/blob/main/Day-4/Plus%20One)
+#### Day 5
+###### [Alike String Halves](https://github.com/cupoglee/100-days-of-code/blob/main/Day%205/Alike-String-Halves)
