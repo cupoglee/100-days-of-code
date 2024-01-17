@@ -15,3 +15,4 @@
 ###### [Highest Number of Candies](https://github.com/cupoglee/100-days-of-code/blob/main/Day%206/highest-candies)
 #### Day 7
 ###### [Number of Unique Occurrances](https://github.com/cupoglee/100-days-of-code/blob/main/Day%207/Unique-number-of-occurrances)
+###### [Finding the duplicate number](https://github.com/cupoglee/100-days-of-code/blob/main/Day%207/FInding-the-duplicating-number)
