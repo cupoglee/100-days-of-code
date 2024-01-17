@@ -13,3 +13,5 @@
 ###### [Alike String Halves](https://github.com/cupoglee/100-days-of-code/blob/main/Day%205/Alike-String-Halves)
 #### Day 6
 ###### [Highest Number of Candies](https://github.com/cupoglee/100-days-of-code/blob/main/Day%206/highest-candies)
+#### Day 7
+###### [Number of Unique Occurrances](https://github.com/cupoglee/100-days-of-code/blob/main/Day%207/Unique-number-of-occurrances)
