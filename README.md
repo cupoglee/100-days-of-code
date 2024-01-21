@@ -18,3 +18,5 @@
 ###### [Finding the duplicate number](https://github.com/cupoglee/100-days-of-code/blob/main/Day%207/FInding-the-duplicating-number)
 #### Day 8
 ###### [Majority Number](https://github.com/cupoglee/100-days-of-code/blob/main/Day%208/Majority-number)
+#### Day 9
+###### [Fizz Buzz](https://github.com/cupoglee/100-days-of-code/blob/main/Day%209/Fizz-Buzz)
