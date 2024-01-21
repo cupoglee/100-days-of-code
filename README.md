@@ -21,3 +21,4 @@
 #### Day 9
 ###### [Fizz Buzz](https://github.com/cupoglee/100-days-of-code/blob/main/Day%209/Fizz-Buzz)
 ###### [Number of ways to reduce a number to zero](https://github.com/cupoglee/100-days-of-code/blob/main/Day%209/Number-of-ways-to-reduce-a-number-to-zero)
+###### [Middle of the linked list](https://github.com/cupoglee/100-days-of-code/blob/main/Day%209/Middle-of-the-linked-list)
