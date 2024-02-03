@@ -24,3 +24,5 @@
 ###### [Middle of the linked list](https://github.com/cupoglee/100-days-of-code/blob/main/Day%209/Middle-of-the-linked-list)
 #### Day 10
 ###### [Isomorphic Strings](https://github.com/cupoglee/100-days-of-code/tree/main/Day%2010)
+#### Day 11
+###### [Index of the first occurrance of a string](https://github.com/cupoglee/100-days-of-code/tree/main/Day%2011)
