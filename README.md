@@ -26,3 +26,4 @@
 ###### [Isomorphic Strings](https://github.com/cupoglee/100-days-of-code/tree/main/Day%2010)
 #### Day 11
 ###### [Index of the first occurrance of a string](https://github.com/cupoglee/100-days-of-code/tree/main/Day%2011)
+###### [Majority element](https://github.com/cupoglee/100-days-of-code/blob/main/Day%2011/lol.py)
